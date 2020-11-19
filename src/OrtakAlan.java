@@ -10,6 +10,8 @@ public class OrtakAlan {
 		}
 		
 		int x=c;
+		
+		System.out.println("yeni branch acildi 10:14");
 
 	}
 
