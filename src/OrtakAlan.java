@@ -8,6 +8,8 @@ public class OrtakAlan {
 		for(int i=0; i<c; i++){
 			System.out.println(i+" ");
 		}
+		
+		int x=c;
 
 	}
 
